@@ -1,0 +1,3 @@
+#GitBash
+
+This is exercies commit in GitBash
